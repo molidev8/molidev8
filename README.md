@@ -6,7 +6,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)</br>
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)</br>
 ![Firebase](https://img.shields.io/badge/Firebase-FFC300?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)</br>
-![Github Actions}(https://img.shields.io/badge/Github_Actions-FFFFFF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=101010)</br>
+![Github Actions](https://img.shields.io/badge/Github_Actions-FFFFFF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=101010)</br>
 
 📝 Check some of my Medium stories: [My Medium Android Stories](https://medium.com/@molidev8/list/android-stories-f8f2a9589341)
 * [Caching Images Based on ETag in Android with Glide](https://medium.com/@molidev8/caching-images-based-on-etag-in-android-with-glide-28622d28e5e3)
