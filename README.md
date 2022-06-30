@@ -1,4 +1,4 @@
-# Hi👋! My name is Miguel Olivera
+# Hi!👋 My name is Miguel Olivera
 ### I´m a sofware engineer mostly interested in mobile development and IoT devices. I've been developing in Android with Kotlin since 2019 and I have also basic knowledge of native iOS development with Swift, hybrid technologies like Xamarin and Flutter and IoT devices. I'm currently working as a junior android developer since 2021.
 
 ## Skills
