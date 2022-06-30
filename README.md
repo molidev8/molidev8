@@ -8,7 +8,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFC300?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)
 ![Github Actions](https://img.shields.io/badge/Github_Actions-FFFFFF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=101010)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-173CE5?style=for-the-badge&logo=jetpack-compose&logoColor=white&labelColor=101010)</br>
-![Java](https://img.shields.io/badge/Java-E53C17?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
 
 📝 Check some of my Medium stories: [My Medium Android Stories](https://medium.com/@molidev8/list/android-stories-f8f2a9589341)
 * [Caching Images Based on ETag in Android with Glide](https://medium.com/@molidev8/caching-images-based-on-etag-in-android-with-glide-28622d28e5e3)
