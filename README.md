@@ -1,4 +1,4 @@
-# Hi there, my name is Miguel Olivera 👋
+# Hi 👋! My name is Miguel Olivera
 ### I´m a sofware engineer currently working as a junior android developer since 2021.
 
 ## Skills:
