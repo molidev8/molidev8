@@ -11,6 +11,7 @@
 
 ## My Medium Blog
 📝 Check some of my Medium stories: [My Medium Android Stories](https://medium.com/@molidev8/list/android-stories-f8f2a9589341)
+* [Testing UI In Android With Screenshot Testing](https://levelup.gitconnected.com/testing-ui-in-android-with-screenshot-testing-7cc633836aad)
 * [How to Implement Sharing Functionality with Nearby in Android](https://medium.com/@molidev8/how-to-implement-sharing-functionality-with-nearby-on-android-85ca3457b2a6)
 * [5 Plugins for Android Studio That Saved Me Time and Effort](https://medium.com/gitconnected/5-plugins-for-android-studio-that-saved-me-time-and-effort-3772d4a58193)
 * [How to Implement a Foreground Service with Notifications in Android](https://medium.com/gitconnected/how-to-implement-a-foreground-service-with-notifications-in-android-5e249ed3ebeb)
