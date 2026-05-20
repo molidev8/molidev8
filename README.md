@@ -1,5 +1,5 @@
 # Hi!👋 My name is Miguel Olivera
-### I'm a software engineer, mostly interested in mobile development and IoT devices. I've been developing in Android with Kotlin since 2019 and I have also basic knowledge of native iOS development with Swift, hybrid technologies like Xamarin and Flutter and IoT devices. I'm currently working as a junior android developer since 2021.
+### I'm a software engineer, mostly interested in mobile development and IoT devices. I've been developing in Android with Kotlin since 2019 and I have also basic knowledge of native iOS development with Swift, hybrid technologies like KMP and IoT devices. I'm currently working as an android developer.
 
 ## Skills
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
